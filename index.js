@@ -58,8 +58,9 @@ let days = [
 "Fri",
 "Sat"
 ];
-let day = days[date.getDay()];
-let months = [
+let dayIndex = date.getDay();
+let day = days[dayIndex];
+  let months = [
 "Jan",
 "Feb",
 "Mar",
