@@ -22,8 +22,8 @@ body {
   
   h2 {
   color: rgb(53, 31, 177);
-   position:relative;
-   left: 400px;
+    position: relative;
+    left: 370px;
    top:-150px;
   }
   .coll {
